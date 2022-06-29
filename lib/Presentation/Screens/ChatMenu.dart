@@ -66,7 +66,7 @@ class _ChatMenuState extends State<ChatMenu> {
           SizedBox(height: 20,),
           Center(
             child: Container(
-              height: 2,
+              height: 5,
               width: 300,
               color: Colors.grey,
             ),
